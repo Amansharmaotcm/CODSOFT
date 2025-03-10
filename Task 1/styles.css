@@ -120,7 +120,7 @@ body.dark-theme .container {
 }
 
 .chat-message.user .message {
-    background-color: #4CAF50;
+    background-color: #2655fe;
     color: white;
     border-bottom-right-radius: 5px;
 }
@@ -160,7 +160,7 @@ body.dark-theme .chat-message.bot .message {
 }
 
 #send-btn {
-    background-color: #4CAF50;
+    background-color: #2655fe;
     color: white;
     border: none;
     border-radius: 20px;
